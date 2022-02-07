@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "livraiApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

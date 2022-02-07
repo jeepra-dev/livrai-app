@@ -1,0 +1,8 @@
+{
+  "name": "livraiApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "89191608"
+}
